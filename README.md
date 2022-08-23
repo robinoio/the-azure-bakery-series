@@ -9,4 +9,4 @@ This repository is part
 of [The Azure Bakery series](https://go.robino.io/the-azure-bakery-series-introduction/ "The Azure Bakery series") blog
 posts.
 
-![An Azure cake](https://github.com/robinoio/the-azure-bakery-series/blob/main/images/the-azure-bakery-series.png?raw=true)
+![An Azure cake](https://github.com/robinoio/the-azure-bakery-series/blob/main/images/the-azure-bakery-series-cake.png?raw=true)
